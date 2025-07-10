@@ -57,7 +57,7 @@ Add `ffmpeg` to the system PATH so `yt-dlp` can use it.
 1. Run the Python script:
 
 ```bash
-python yt_mp3_downloader_gui.py
+python yt_audio_downloader.py
 ```
 
 2. Click **"Select .txt File with YouTube Links"**
